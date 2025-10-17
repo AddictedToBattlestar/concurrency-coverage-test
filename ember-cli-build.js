@@ -13,6 +13,7 @@ module.exports = function (defaults) {
         require.resolve('ember-concurrency/async-arrow-task-transform'),
 
         // NOTE: put any code coverage plugins last, after the transform.
+        ...require('ember-cli-code-coverage').buildBabelPlugin({ embroider: true })
       ],
     },
   });
