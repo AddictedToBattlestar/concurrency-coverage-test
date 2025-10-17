@@ -1,0 +1,242 @@
+eember install ember-concurrency[?2004l
+
+[?25l[32m⠋[39m [32mInstalling addon package[39m[2K[1G[?25h
+[?25l[32m⠋[39m [32mInstalling addon package[39m[2K[1G[?25h🚧  Installing packages... This might take a couple of minutes.
+[?25l[32m⠋[39m [32mInstalling addon package[39m[2K[1G[32m⠙[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠹[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠸[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠼[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠴[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠦[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠧[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠇[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠏[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠋[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠙[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠹[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠸[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠼[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠴[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠦[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠧[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠇[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠏[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠋[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠙[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠹[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠸[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠼[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠴[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠦[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠧[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠇[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠏[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠋[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[32m⠙[39m [32mnpm: Installing ember-concurrency ...[39m[2K[1G[?25h[32mnpm: Installed ember-concurrency[39m
+[?25h[32mInstalled addon package.[39m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                     
+ 
+
+[0m[27m[24m[J[0m[49m[39m
+[A[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/Projects/temp/[1m[38;5;31m[38;5;39mconcurrency-coverage-test[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;178m[38;5;76mmain [38;5;178m!2[0m[38;5;178m[49m[38;5;178m[0m[38;5;178m[49m[30m[0m[30m[49m[39m                                                                                                                                                                         [0m[49m[38;5;101m3s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;66m 08:44:55[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m
+[0m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[?2004hggit add .[?2004l
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                     
+ 
+
+[0m[27m[24m[J[0m[49m[39m
+[A[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/Projects/temp/[1m[38;5;31m[38;5;39mconcurrency-coverage-test[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;178m[38;5;76mmain [38;5;178m+2[0m[38;5;178m[49m[38;5;178m[0m[38;5;178m[49m[30m[0m[30m[49m[39m                                                                                                                                                                            [0m[49m[38;5;66m08:45:52[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m
+[0m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[?2004hggit commit -m "ember install ember-concurrency"[?2004l
+
+[main 36126ba] ember install ember-concurrency
+ 2 files changed, 43 insertions(+), 5 deletions(-)
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                     
+ 
+
+[0m[27m[24m[J[0m[49m[39m
+[A[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/Projects/temp/[1m[38;5;31m[38;5;39mconcurrency-coverage-test[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m[38;5;76mmain[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m                                                                                                                                                                               [0m[49m[38;5;66m08:46:02[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m
+[0m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[?2004heember g component concurrent cy-            times d-greeting[P[9C [10D[P[9C [10D[P[9C [10D[P[9C [10D[P[9C [10Dd-greeting[9De-greeting[9Dl-greeting[9Da-greeting[9Dr-greeting[9D[P[9C [10Dy-greeting[9De-greeting[9Dd-greeting[9D[?2004l
+
+installing component
+  [32mcreate[39m app/components/delayed-greeting.hbs
+  [33mskip[39m app/components/delayed-greeting.ts
+  [36mtip[39m to add a class, run `ember generate component-class delayed-greeting`
+installing component-test
+  [32mcreate[39m tests/integration/components/delayed-greeting-test.ts
+
+✨  Running "lint:fix" script...
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                     
+ 
+
+[0m[27m[24m[J[0m[49m[39m
+[A[0m[49m[38;5;31m[1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/Projects/temp/[1m[38;5;31m[38;5;39mconcurrency-coverage-test[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m[38;5;76mmain [38;5;39m?2[0m[38;5;39m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m                                                                                                                                                                            [0m[49m[38;5;66m08:46:49[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m
+[0m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[?2004herabilities fixed, support for node < 10 dropped, and newer ECMAScript syntax/features added
+npm warn deprecated gauge@4.0.4: This package is no longer supported.
+
+added 921 packages in 17s
+
+78 packages are looking for funding
+  run `npm fund` for details
+~/Projects/temp                                                                                                                                                                                                          17s 08:37:22
+❯ ember new --help
+Requested ember-cli commands:
+
+ember new <app-name> <options...>
+  Creates a new directory and runs ember init in it.
+  --dry-run (Boolean) (Default: false)
+    aliases: -d
+  --verbose (Boolean) (Default: false)
+    aliases: -v
+  --blueprint (String) (Default: app)
+    aliases: -b <value>
+  --skip-npm (Boolean) (Default: false)
+    aliases: -sn, --skip-install, -si
+  --skip-git (Boolean) (Default: false)
+    aliases: -sg
+  --welcome (Boolean) (Default: true) Installs and uses {{ember-welcome-page}}. Use --no-welcome to skip it.
+  --package-manager (npm, pnpm, yarn)
+    aliases: -npm (--package-manager=npm), -pnpm (--package-manager=pnpm), -yarn (--package-manager=yarn)
+  --directory (String)
+    aliases: -dir <value>
+  --lang (String) Sets the base human language of the application via index.html
+  --embroider (Boolean) (Default: false) Enables the build system to use Embroider
+  --ci-provider (travis, github) Installs the default CI blueprint. Either Travis or Github Actions is supported.
+  --interactive (Boolean) (Default: false) Create a new Ember app/addon in an interactive way.
+    aliases: -i
+  --typescript (Boolean) (Default: false) Set up the app to use TypeScript
+
+~/Projects/temp                                                                                                                                                                                                              08:38:25
+❯ ember new concurrency-coverage-test --typescript=true --embroider=true
+installing app
+Ember CLI v5.12.0
+
+✨  Creating a new Ember app in /Users/johnryan/Projects/temp/concurrency-coverage-test:
+  create .editorconfig
+  create .ember-cli
+  create .eslintignore
+  create .eslintrc.js
+  create .github/workflows/ci.yml
+  create .prettierignore
+  create .prettierrc.js
+  create .stylelintignore
+  create .stylelintrc.js
+  create .template-lintrc.js
+  create .watchmanconfig
+  create README.md
+  create app/app.ts
+  create app/components/.gitkeep
+  create app/config/environment.d.ts
+  create app/controllers/.gitkeep
+  create app/helpers/.gitkeep
+  create app/index.html
+  create app/models/.gitkeep
+  create app/router.ts
+  create app/routes/.gitkeep
+  create app/styles/app.css
+  create app/templates/application.hbs
+  create config/ember-cli-update.json
+  create config/environment.js
+  create config/optional-features.json
+  create config/targets.js
+  create ember-cli-build.js
+  create .gitignore
+  create package.json
+  create public/robots.txt
+  create testem.js
+  create tests/helpers/index.ts
+  create tests/index.html
+  create tests/integration/.gitkeep
+  create tests/test-helper.ts
+  create tests/unit/.gitkeep
+  create tsconfig.json
+  create types/ember-data/types/registries/model.d.ts
+  create types/global.d.ts
+
+🚧  Installing packages... This might take a couple of minutes.
+npm: Installed dependencies
+
+🎥  Initializing git repository.
+Git: successfully initialized.
+
+🎉  Successfully created project concurrency-coverage-test.
+👉  Get started by typing:
+
+  $ cd concurrency-coverage-test
+  $ npm start
+
+Happy coding!
+~/Projects/temp                                                                                                                                                                                                        1m 3s 08:41:51
+❯ cd concurrency-coverage-test
+~/Projects/temp/concurrency-coverage-test main                                                                                                                                                                               08:41:59
+❯ code .
+~/Projects/temp/concurrency-coverage-test main                                                                                                                                                                               08:42:02
+❯ ember install ember-concurrency
+
+🚧  Installing packages... This might take a couple of minutes.
+npm: Installed ember-concurrency
+Installed addon package.
+~/Projects/temp/concurrency-coverage-test main !2                                                                                                                                                                         3s 08:44:55
+❯ git add .
+~/Projects/temp/concurrency-coverage-test main +2                                                                                                                                                                            08:45:52
+❯ git commit -m "ember install ember-concurrency"
+[main 36126ba] ember install ember-concurrency
+ 2 files changed, 43 insertions(+), 5 deletions(-)
+~/Projects/temp/concurrency-coverage-test main                                                                                                                                                                               08:46:02
+❯ ember g component delayed-greeting
+installing component
+  create app/components/delayed-greeting.hbs
+  skip app/components/delayed-greeting.ts
+  tip to add a class, run `ember generate component-class delayed-greeting`
+installing component-test
+  create tests/integration/components/delayed-greeting-test.ts
+
+✨  Running "lint:fix" script...
+~/Projects/temp/concurrency-coverage-test main ?2                                                                                                                                                                            08:46:49
+❯ ember generate component-class delayed-greeting
+installing component-class
+  create app/components/delayed-greeting.ts
+
+✨  Running "lint:fix" script...
+~/Projects/temp/concurrency-coverage-test main ?3                                                                                                                                                                            08:47:40
+❯ git add .
+~/Projects/temp/concurrency-coverage-test main +4                                                                                                                                                                            09:10:01
+❯ git commit -m "Setup of a component that uses an Ember Concurrency task" -m "This component is failing as the Babel transform is missing.  I will add that next."
+[main 4f29c0e] Setup of a component that uses an Ember Concurrency task
+ 4 files changed, 53 insertions(+), 3 deletions(-)
+ create mode 100644 app/components/delayed-greeting.hbs
+ create mode 100644 app/components/delayed-greeting.ts
+ create mode 100644 tests/integration/components/delayed-greeting-test.ts
+~/Projects/temp/concurrency-coverage-test main                                                                                                                                                                               09:11:08
+❯ git add .
+~/Projects/temp/concurrency-coverage-test main +1                                                                                                                                                                            09:12:06
+❯ git commit -m 'Added the Babel transform for "ember-concurrency/async-arrow-task-transform" and now everything works as expected'
+[main 9a1421f] Added the Babel transform for "ember-concurrency/async-arrow-task-transform" and now everything works as expected
+ 1 file changed, 8 insertions(+)
+~/Projects/temp/concurrency-coverage-test main                                                                                                                                                                               09:12:51
+❯ ember install ember-cli-code-coverage
+
+
+🚧  Installing packages... This might take a couple of minutes.
+npm: Installed ember-cli-code-coverage
+Installed addon package.
+~/Projects/temp/concurrency-coverage-test main !2                                                                                                                                                                        13s 09:14:11
+❯ git add .
+~/Projects/temp/concurrency-coverage-test main +2                                                                                                                                                                            09:15:45
+❯ git commit -m "ember install ember-cli-code-coverage"
+[main 40bc868] ember install ember-cli-code-coverage
+ 2 files changed, 1184 insertions(+), 133 deletions(-)
+~/Projects/temp/concurrency-coverage-test main                                                                                                                                                                               09:15:54
+❯ git add .
+~/Projects/temp/concurrency-coverage-test main +2                                                                                                                                                                            09:24:06
+❯ git commit -m "Setup ember-cli-code-coverage.  Tests are now failing with async arrow task function error." -m "Setup as per https://github.com/ember-cli-code-coverage/ember-cli-code-coverage?tab=readme-ov-file#setup"
+[main 18b5c3c] Setup ember-cli-code-coverage.  Tests are now failing with async arrow task function error.
+ 2 files changed, 7 insertions(+)
+~/Projects/temp/concurrency-coverage-test main                                                                                                                                                                               09:25:51
+❯ npm install
+
+changed 1 package, and audited 2482 packages in 9s
+
+256 packages are looking for funding
+  run `npm fund` for details
+
+64 vulnerabilities (19 low, 32 moderate, 13 high)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+~/Projects/temp/concurrency-coverage-test main +1 !1                                                                                                                                                                      9s 09:59:48
+❯ git add .
+~/Projects/temp/concurrency-coverage-test main +2                                                                                                                                                                            10:00:19
+❯ git commit -m "Downgraded to ember-concurrency@4.0.6, now both the app and tests (with coverage) run without issue."
+[main 7f3b68b] Downgraded to ember-concurrency@4.0.6, now both the app and tests (with coverage) run without issue.
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+~/Projects/temp/concurrency-coverage-test main ⇡1                                                                                                                                                                            10:01:07
+❯ push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 639 bytes | 639.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/AddictedToBattlestar/concurrency-coverage-test.git
+   18b5c3c..7f3b68b  main -> main
+~/Projects/temp/concurrency-coverage-test main                                                                                                                                                                           10s 10:01:18
+❯
