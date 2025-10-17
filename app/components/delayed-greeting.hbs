@@ -1,0 +1,7 @@
+<h2>Concurrency Example Component</h2>
+<p>This is a simple example of an Ember component using Ember Concurrency</p>
+{{#if this.updateDisplayTextTask.isRunning}}
+  <p>Loading...</p>
+{{else}}
+  <p>{{this.displayText}}</p>
+{{/if}}
